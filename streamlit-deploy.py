@@ -6,6 +6,7 @@ from collections import defaultdict, Counter
 from nltk.corpus import brown
 from nltk.tokenize import word_tokenize
 
+
 # Download the Brown corpus
 nltk.download('brown')
 
